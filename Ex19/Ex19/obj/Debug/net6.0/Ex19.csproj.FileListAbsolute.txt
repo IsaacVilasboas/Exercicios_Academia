@@ -1,0 +1,14 @@
+D:\.net\Exercicios de Repetição\Ex19\Ex19\bin\Debug\net6.0\Ex19.exe
+D:\.net\Exercicios de Repetição\Ex19\Ex19\bin\Debug\net6.0\Ex19.deps.json
+D:\.net\Exercicios de Repetição\Ex19\Ex19\bin\Debug\net6.0\Ex19.runtimeconfig.json
+D:\.net\Exercicios de Repetição\Ex19\Ex19\bin\Debug\net6.0\Ex19.dll
+D:\.net\Exercicios de Repetição\Ex19\Ex19\bin\Debug\net6.0\Ex19.pdb
+D:\.net\Exercicios de Repetição\Ex19\Ex19\obj\Debug\net6.0\Ex19.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Exercicios de Repetição\Ex19\Ex19\obj\Debug\net6.0\Ex19.AssemblyInfoInputs.cache
+D:\.net\Exercicios de Repetição\Ex19\Ex19\obj\Debug\net6.0\Ex19.AssemblyInfo.cs
+D:\.net\Exercicios de Repetição\Ex19\Ex19\obj\Debug\net6.0\Ex19.csproj.CoreCompileInputs.cache
+D:\.net\Exercicios de Repetição\Ex19\Ex19\obj\Debug\net6.0\Ex19.dll
+D:\.net\Exercicios de Repetição\Ex19\Ex19\obj\Debug\net6.0\refint\Ex19.dll
+D:\.net\Exercicios de Repetição\Ex19\Ex19\obj\Debug\net6.0\Ex19.pdb
+D:\.net\Exercicios de Repetição\Ex19\Ex19\obj\Debug\net6.0\Ex19.genruntimeconfig.cache
+D:\.net\Exercicios de Repetição\Ex19\Ex19\obj\Debug\net6.0\ref\Ex19.dll
