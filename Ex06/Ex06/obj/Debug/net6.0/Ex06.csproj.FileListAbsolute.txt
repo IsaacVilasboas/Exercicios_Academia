@@ -1,0 +1,14 @@
+D:\.net\Exercicios de Repetição\Ex06\Ex06\bin\Debug\net6.0\Ex06.exe
+D:\.net\Exercicios de Repetição\Ex06\Ex06\bin\Debug\net6.0\Ex06.deps.json
+D:\.net\Exercicios de Repetição\Ex06\Ex06\bin\Debug\net6.0\Ex06.runtimeconfig.json
+D:\.net\Exercicios de Repetição\Ex06\Ex06\bin\Debug\net6.0\Ex06.dll
+D:\.net\Exercicios de Repetição\Ex06\Ex06\bin\Debug\net6.0\Ex06.pdb
+D:\.net\Exercicios de Repetição\Ex06\Ex06\obj\Debug\net6.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Exercicios de Repetição\Ex06\Ex06\obj\Debug\net6.0\Ex06.AssemblyInfoInputs.cache
+D:\.net\Exercicios de Repetição\Ex06\Ex06\obj\Debug\net6.0\Ex06.AssemblyInfo.cs
+D:\.net\Exercicios de Repetição\Ex06\Ex06\obj\Debug\net6.0\Ex06.csproj.CoreCompileInputs.cache
+D:\.net\Exercicios de Repetição\Ex06\Ex06\obj\Debug\net6.0\Ex06.dll
+D:\.net\Exercicios de Repetição\Ex06\Ex06\obj\Debug\net6.0\refint\Ex06.dll
+D:\.net\Exercicios de Repetição\Ex06\Ex06\obj\Debug\net6.0\Ex06.pdb
+D:\.net\Exercicios de Repetição\Ex06\Ex06\obj\Debug\net6.0\Ex06.genruntimeconfig.cache
+D:\.net\Exercicios de Repetição\Ex06\Ex06\obj\Debug\net6.0\ref\Ex06.dll
