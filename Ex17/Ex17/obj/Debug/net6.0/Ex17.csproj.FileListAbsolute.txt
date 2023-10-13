@@ -1,0 +1,14 @@
+D:\.net\Exercicios de Repetição\Ex17\Ex17\bin\Debug\net6.0\Ex17.exe
+D:\.net\Exercicios de Repetição\Ex17\Ex17\bin\Debug\net6.0\Ex17.deps.json
+D:\.net\Exercicios de Repetição\Ex17\Ex17\bin\Debug\net6.0\Ex17.runtimeconfig.json
+D:\.net\Exercicios de Repetição\Ex17\Ex17\bin\Debug\net6.0\Ex17.dll
+D:\.net\Exercicios de Repetição\Ex17\Ex17\bin\Debug\net6.0\Ex17.pdb
+D:\.net\Exercicios de Repetição\Ex17\Ex17\obj\Debug\net6.0\Ex17.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Exercicios de Repetição\Ex17\Ex17\obj\Debug\net6.0\Ex17.AssemblyInfoInputs.cache
+D:\.net\Exercicios de Repetição\Ex17\Ex17\obj\Debug\net6.0\Ex17.AssemblyInfo.cs
+D:\.net\Exercicios de Repetição\Ex17\Ex17\obj\Debug\net6.0\Ex17.csproj.CoreCompileInputs.cache
+D:\.net\Exercicios de Repetição\Ex17\Ex17\obj\Debug\net6.0\Ex17.dll
+D:\.net\Exercicios de Repetição\Ex17\Ex17\obj\Debug\net6.0\refint\Ex17.dll
+D:\.net\Exercicios de Repetição\Ex17\Ex17\obj\Debug\net6.0\Ex17.pdb
+D:\.net\Exercicios de Repetição\Ex17\Ex17\obj\Debug\net6.0\Ex17.genruntimeconfig.cache
+D:\.net\Exercicios de Repetição\Ex17\Ex17\obj\Debug\net6.0\ref\Ex17.dll
