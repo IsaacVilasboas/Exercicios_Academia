@@ -1,0 +1,14 @@
+D:\.net\Exercicios de Repetição\Ex27\Ex27\bin\Debug\net6.0\Ex27.exe
+D:\.net\Exercicios de Repetição\Ex27\Ex27\bin\Debug\net6.0\Ex27.deps.json
+D:\.net\Exercicios de Repetição\Ex27\Ex27\bin\Debug\net6.0\Ex27.runtimeconfig.json
+D:\.net\Exercicios de Repetição\Ex27\Ex27\bin\Debug\net6.0\Ex27.dll
+D:\.net\Exercicios de Repetição\Ex27\Ex27\bin\Debug\net6.0\Ex27.pdb
+D:\.net\Exercicios de Repetição\Ex27\Ex27\obj\Debug\net6.0\Ex27.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Exercicios de Repetição\Ex27\Ex27\obj\Debug\net6.0\Ex27.AssemblyInfoInputs.cache
+D:\.net\Exercicios de Repetição\Ex27\Ex27\obj\Debug\net6.0\Ex27.AssemblyInfo.cs
+D:\.net\Exercicios de Repetição\Ex27\Ex27\obj\Debug\net6.0\Ex27.csproj.CoreCompileInputs.cache
+D:\.net\Exercicios de Repetição\Ex27\Ex27\obj\Debug\net6.0\Ex27.dll
+D:\.net\Exercicios de Repetição\Ex27\Ex27\obj\Debug\net6.0\refint\Ex27.dll
+D:\.net\Exercicios de Repetição\Ex27\Ex27\obj\Debug\net6.0\Ex27.pdb
+D:\.net\Exercicios de Repetição\Ex27\Ex27\obj\Debug\net6.0\Ex27.genruntimeconfig.cache
+D:\.net\Exercicios de Repetição\Ex27\Ex27\obj\Debug\net6.0\ref\Ex27.dll

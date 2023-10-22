@@ -1,0 +1,14 @@
+D:\.net\Exercicios de Repetição\Ex12\Ex12\bin\Debug\net6.0\Ex12.exe
+D:\.net\Exercicios de Repetição\Ex12\Ex12\bin\Debug\net6.0\Ex12.deps.json
+D:\.net\Exercicios de Repetição\Ex12\Ex12\bin\Debug\net6.0\Ex12.runtimeconfig.json
+D:\.net\Exercicios de Repetição\Ex12\Ex12\bin\Debug\net6.0\Ex12.dll
+D:\.net\Exercicios de Repetição\Ex12\Ex12\bin\Debug\net6.0\Ex12.pdb
+D:\.net\Exercicios de Repetição\Ex12\Ex12\obj\Debug\net6.0\Ex12.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Exercicios de Repetição\Ex12\Ex12\obj\Debug\net6.0\Ex12.AssemblyInfoInputs.cache
+D:\.net\Exercicios de Repetição\Ex12\Ex12\obj\Debug\net6.0\Ex12.AssemblyInfo.cs
+D:\.net\Exercicios de Repetição\Ex12\Ex12\obj\Debug\net6.0\Ex12.csproj.CoreCompileInputs.cache
+D:\.net\Exercicios de Repetição\Ex12\Ex12\obj\Debug\net6.0\Ex12.dll
+D:\.net\Exercicios de Repetição\Ex12\Ex12\obj\Debug\net6.0\refint\Ex12.dll
+D:\.net\Exercicios de Repetição\Ex12\Ex12\obj\Debug\net6.0\Ex12.pdb
+D:\.net\Exercicios de Repetição\Ex12\Ex12\obj\Debug\net6.0\Ex12.genruntimeconfig.cache
+D:\.net\Exercicios de Repetição\Ex12\Ex12\obj\Debug\net6.0\ref\Ex12.dll
