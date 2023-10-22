@@ -1,0 +1,14 @@
+D:\.net\Exercicios de Vetor\Ex01\Ex01\bin\Debug\net6.0\Ex01.exe
+D:\.net\Exercicios de Vetor\Ex01\Ex01\bin\Debug\net6.0\Ex01.deps.json
+D:\.net\Exercicios de Vetor\Ex01\Ex01\bin\Debug\net6.0\Ex01.runtimeconfig.json
+D:\.net\Exercicios de Vetor\Ex01\Ex01\bin\Debug\net6.0\Ex01.dll
+D:\.net\Exercicios de Vetor\Ex01\Ex01\bin\Debug\net6.0\Ex01.pdb
+D:\.net\Exercicios de Vetor\Ex01\Ex01\obj\Debug\net6.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Exercicios de Vetor\Ex01\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfoInputs.cache
+D:\.net\Exercicios de Vetor\Ex01\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfo.cs
+D:\.net\Exercicios de Vetor\Ex01\Ex01\obj\Debug\net6.0\Ex01.csproj.CoreCompileInputs.cache
+D:\.net\Exercicios de Vetor\Ex01\Ex01\obj\Debug\net6.0\Ex01.dll
+D:\.net\Exercicios de Vetor\Ex01\Ex01\obj\Debug\net6.0\refint\Ex01.dll
+D:\.net\Exercicios de Vetor\Ex01\Ex01\obj\Debug\net6.0\Ex01.pdb
+D:\.net\Exercicios de Vetor\Ex01\Ex01\obj\Debug\net6.0\Ex01.genruntimeconfig.cache
+D:\.net\Exercicios de Vetor\Ex01\Ex01\obj\Debug\net6.0\ref\Ex01.dll

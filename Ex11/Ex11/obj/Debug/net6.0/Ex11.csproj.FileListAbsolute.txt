@@ -1,0 +1,14 @@
+D:\.net\Exercicios de Vetor\Ex11\Ex11\bin\Debug\net6.0\Ex11.exe
+D:\.net\Exercicios de Vetor\Ex11\Ex11\bin\Debug\net6.0\Ex11.deps.json
+D:\.net\Exercicios de Vetor\Ex11\Ex11\bin\Debug\net6.0\Ex11.runtimeconfig.json
+D:\.net\Exercicios de Vetor\Ex11\Ex11\bin\Debug\net6.0\Ex11.dll
+D:\.net\Exercicios de Vetor\Ex11\Ex11\bin\Debug\net6.0\Ex11.pdb
+D:\.net\Exercicios de Vetor\Ex11\Ex11\obj\Debug\net6.0\Ex11.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Exercicios de Vetor\Ex11\Ex11\obj\Debug\net6.0\Ex11.AssemblyInfoInputs.cache
+D:\.net\Exercicios de Vetor\Ex11\Ex11\obj\Debug\net6.0\Ex11.AssemblyInfo.cs
+D:\.net\Exercicios de Vetor\Ex11\Ex11\obj\Debug\net6.0\Ex11.csproj.CoreCompileInputs.cache
+D:\.net\Exercicios de Vetor\Ex11\Ex11\obj\Debug\net6.0\Ex11.dll
+D:\.net\Exercicios de Vetor\Ex11\Ex11\obj\Debug\net6.0\refint\Ex11.dll
+D:\.net\Exercicios de Vetor\Ex11\Ex11\obj\Debug\net6.0\Ex11.pdb
+D:\.net\Exercicios de Vetor\Ex11\Ex11\obj\Debug\net6.0\Ex11.genruntimeconfig.cache
+D:\.net\Exercicios de Vetor\Ex11\Ex11\obj\Debug\net6.0\ref\Ex11.dll
