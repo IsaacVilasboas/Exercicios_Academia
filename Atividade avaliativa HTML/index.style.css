@@ -51,7 +51,7 @@ img{
 }
 
 p{
-    padding: 26px 15px;
+    padding: 10px 10px;
 
 }
 table{
@@ -108,4 +108,16 @@ table{
 #posRoda{
     position: relative;
     left: 6%;
+}
+.sobre{
+    padding: 7px 5px;
+}
+#nome{
+    padding: 7px 12px;
+}
+#email{
+    padding: 7px 12px;
+}
+#mensagem{
+    padding: 5px 41px;
 }
