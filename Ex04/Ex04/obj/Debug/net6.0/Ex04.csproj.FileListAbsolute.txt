@@ -1,0 +1,14 @@
+D:\.net\POO\Exercicios\Ex04\Ex04\bin\Debug\net6.0\Ex04.exe
+D:\.net\POO\Exercicios\Ex04\Ex04\bin\Debug\net6.0\Ex04.deps.json
+D:\.net\POO\Exercicios\Ex04\Ex04\bin\Debug\net6.0\Ex04.runtimeconfig.json
+D:\.net\POO\Exercicios\Ex04\Ex04\bin\Debug\net6.0\Ex04.dll
+D:\.net\POO\Exercicios\Ex04\Ex04\bin\Debug\net6.0\Ex04.pdb
+D:\.net\POO\Exercicios\Ex04\Ex04\obj\Debug\net6.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\POO\Exercicios\Ex04\Ex04\obj\Debug\net6.0\Ex04.AssemblyInfoInputs.cache
+D:\.net\POO\Exercicios\Ex04\Ex04\obj\Debug\net6.0\Ex04.AssemblyInfo.cs
+D:\.net\POO\Exercicios\Ex04\Ex04\obj\Debug\net6.0\Ex04.csproj.CoreCompileInputs.cache
+D:\.net\POO\Exercicios\Ex04\Ex04\obj\Debug\net6.0\Ex04.dll
+D:\.net\POO\Exercicios\Ex04\Ex04\obj\Debug\net6.0\refint\Ex04.dll
+D:\.net\POO\Exercicios\Ex04\Ex04\obj\Debug\net6.0\Ex04.pdb
+D:\.net\POO\Exercicios\Ex04\Ex04\obj\Debug\net6.0\Ex04.genruntimeconfig.cache
+D:\.net\POO\Exercicios\Ex04\Ex04\obj\Debug\net6.0\ref\Ex04.dll
