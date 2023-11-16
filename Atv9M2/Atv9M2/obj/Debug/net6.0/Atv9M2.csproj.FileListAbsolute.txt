@@ -1,0 +1,14 @@
+D:\.net\POO\Atv9M2\Atv9M2\bin\Debug\net6.0\Atv9M2.exe
+D:\.net\POO\Atv9M2\Atv9M2\bin\Debug\net6.0\Atv9M2.deps.json
+D:\.net\POO\Atv9M2\Atv9M2\bin\Debug\net6.0\Atv9M2.runtimeconfig.json
+D:\.net\POO\Atv9M2\Atv9M2\bin\Debug\net6.0\Atv9M2.dll
+D:\.net\POO\Atv9M2\Atv9M2\bin\Debug\net6.0\Atv9M2.pdb
+D:\.net\POO\Atv9M2\Atv9M2\obj\Debug\net6.0\Atv9M2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\POO\Atv9M2\Atv9M2\obj\Debug\net6.0\Atv9M2.AssemblyInfoInputs.cache
+D:\.net\POO\Atv9M2\Atv9M2\obj\Debug\net6.0\Atv9M2.AssemblyInfo.cs
+D:\.net\POO\Atv9M2\Atv9M2\obj\Debug\net6.0\Atv9M2.csproj.CoreCompileInputs.cache
+D:\.net\POO\Atv9M2\Atv9M2\obj\Debug\net6.0\Atv9M2.dll
+D:\.net\POO\Atv9M2\Atv9M2\obj\Debug\net6.0\refint\Atv9M2.dll
+D:\.net\POO\Atv9M2\Atv9M2\obj\Debug\net6.0\Atv9M2.pdb
+D:\.net\POO\Atv9M2\Atv9M2\obj\Debug\net6.0\Atv9M2.genruntimeconfig.cache
+D:\.net\POO\Atv9M2\Atv9M2\obj\Debug\net6.0\ref\Atv9M2.dll
