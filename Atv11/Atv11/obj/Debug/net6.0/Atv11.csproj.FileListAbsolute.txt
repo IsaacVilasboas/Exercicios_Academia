@@ -1,0 +1,4 @@
+D:\.net\POO\Atv11\Atv11\obj\Debug\net6.0\Atv11.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\POO\Atv11\Atv11\obj\Debug\net6.0\Atv11.AssemblyInfoInputs.cache
+D:\.net\POO\Atv11\Atv11\obj\Debug\net6.0\Atv11.AssemblyInfo.cs
+D:\.net\POO\Atv11\Atv11\obj\Debug\net6.0\Atv11.csproj.CoreCompileInputs.cache
