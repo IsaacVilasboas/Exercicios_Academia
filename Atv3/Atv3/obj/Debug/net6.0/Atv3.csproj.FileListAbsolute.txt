@@ -1,0 +1,14 @@
+D:\.net\POO\Atv3\Atv3\bin\Debug\net6.0\Atv3.exe
+D:\.net\POO\Atv3\Atv3\bin\Debug\net6.0\Atv3.deps.json
+D:\.net\POO\Atv3\Atv3\bin\Debug\net6.0\Atv3.runtimeconfig.json
+D:\.net\POO\Atv3\Atv3\bin\Debug\net6.0\Atv3.dll
+D:\.net\POO\Atv3\Atv3\bin\Debug\net6.0\Atv3.pdb
+D:\.net\POO\Atv3\Atv3\obj\Debug\net6.0\Atv3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\POO\Atv3\Atv3\obj\Debug\net6.0\Atv3.AssemblyInfoInputs.cache
+D:\.net\POO\Atv3\Atv3\obj\Debug\net6.0\Atv3.AssemblyInfo.cs
+D:\.net\POO\Atv3\Atv3\obj\Debug\net6.0\Atv3.csproj.CoreCompileInputs.cache
+D:\.net\POO\Atv3\Atv3\obj\Debug\net6.0\Atv3.dll
+D:\.net\POO\Atv3\Atv3\obj\Debug\net6.0\refint\Atv3.dll
+D:\.net\POO\Atv3\Atv3\obj\Debug\net6.0\Atv3.pdb
+D:\.net\POO\Atv3\Atv3\obj\Debug\net6.0\Atv3.genruntimeconfig.cache
+D:\.net\POO\Atv3\Atv3\obj\Debug\net6.0\ref\Atv3.dll

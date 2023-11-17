@@ -1,0 +1,14 @@
+D:\.net\POO\Atv15\Atv15\bin\Debug\net6.0\Atv15.exe
+D:\.net\POO\Atv15\Atv15\bin\Debug\net6.0\Atv15.deps.json
+D:\.net\POO\Atv15\Atv15\bin\Debug\net6.0\Atv15.runtimeconfig.json
+D:\.net\POO\Atv15\Atv15\bin\Debug\net6.0\Atv15.dll
+D:\.net\POO\Atv15\Atv15\bin\Debug\net6.0\Atv15.pdb
+D:\.net\POO\Atv15\Atv15\obj\Debug\net6.0\Atv15.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\POO\Atv15\Atv15\obj\Debug\net6.0\Atv15.AssemblyInfoInputs.cache
+D:\.net\POO\Atv15\Atv15\obj\Debug\net6.0\Atv15.AssemblyInfo.cs
+D:\.net\POO\Atv15\Atv15\obj\Debug\net6.0\Atv15.csproj.CoreCompileInputs.cache
+D:\.net\POO\Atv15\Atv15\obj\Debug\net6.0\Atv15.dll
+D:\.net\POO\Atv15\Atv15\obj\Debug\net6.0\refint\Atv15.dll
+D:\.net\POO\Atv15\Atv15\obj\Debug\net6.0\Atv15.pdb
+D:\.net\POO\Atv15\Atv15\obj\Debug\net6.0\Atv15.genruntimeconfig.cache
+D:\.net\POO\Atv15\Atv15\obj\Debug\net6.0\ref\Atv15.dll
