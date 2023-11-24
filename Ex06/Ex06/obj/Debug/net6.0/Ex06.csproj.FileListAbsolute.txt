@@ -1,0 +1,14 @@
+D:\.net\Matriz\Ex06\Ex06\bin\Debug\net6.0\Ex06.exe
+D:\.net\Matriz\Ex06\Ex06\bin\Debug\net6.0\Ex06.deps.json
+D:\.net\Matriz\Ex06\Ex06\bin\Debug\net6.0\Ex06.runtimeconfig.json
+D:\.net\Matriz\Ex06\Ex06\bin\Debug\net6.0\Ex06.dll
+D:\.net\Matriz\Ex06\Ex06\bin\Debug\net6.0\Ex06.pdb
+D:\.net\Matriz\Ex06\Ex06\obj\Debug\net6.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Matriz\Ex06\Ex06\obj\Debug\net6.0\Ex06.AssemblyInfoInputs.cache
+D:\.net\Matriz\Ex06\Ex06\obj\Debug\net6.0\Ex06.AssemblyInfo.cs
+D:\.net\Matriz\Ex06\Ex06\obj\Debug\net6.0\Ex06.csproj.CoreCompileInputs.cache
+D:\.net\Matriz\Ex06\Ex06\obj\Debug\net6.0\Ex06.dll
+D:\.net\Matriz\Ex06\Ex06\obj\Debug\net6.0\refint\Ex06.dll
+D:\.net\Matriz\Ex06\Ex06\obj\Debug\net6.0\Ex06.pdb
+D:\.net\Matriz\Ex06\Ex06\obj\Debug\net6.0\Ex06.genruntimeconfig.cache
+D:\.net\Matriz\Ex06\Ex06\obj\Debug\net6.0\ref\Ex06.dll
